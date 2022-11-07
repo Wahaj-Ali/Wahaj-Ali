@@ -1,4 +1,4 @@
-- Hi there 👋, I’m @Wahaj-Ali
+### Hi there 👋, I’m @Wahaj-Ali
 - A Computer Engineer and a software developer from Pakistan.
 - Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS. 
 - 🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.
