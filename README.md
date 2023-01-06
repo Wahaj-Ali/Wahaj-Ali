@@ -22,7 +22,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Wahaj-Ali&safdsaf=adsfsaf" height="180" alt="ghstats"  />
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Ali&show_icons=true&locale=en" alt="Wahaj-Ali" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Ali&show_icons=true&locale=en" alt="Wahaj-Ali" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Ali&safdsaf=adsfsaf" height="180" alt="Wahaj-Ali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahaj-Ali&" alt="Wahaj-Ali" /></p>
 
