@@ -20,7 +20,7 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong&safdsaf=adsfsaf" height="180" alt="ghstats"  />
+<img src="https://github-readme-stats.vercel.app/apiusername=Wahaj-Ali&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong&safdsaf=adsfsaf" height="180" alt="ghstats"  />
 </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Ali&show_icons=true&locale=en" alt="Wahaj-Ali" /></p>
 
