@@ -27,7 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Ali&safdsaf=adsfsaf" height="180" alt="Wahaj-Ali" /></p>
 </div>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahaj-Ali&" alt="Wahaj-Ali" /></p>
+</div>
 
 <!---
 Wahaj-Ali/Wahaj-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
