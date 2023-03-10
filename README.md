@@ -4,7 +4,7 @@
 <p>Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have great passion for learning languages, frameworks. I am open to new challenges and technologies. I enjoy solving problems via code and designing websites and bringing them to life.</p>
 <ul>
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
-  <li>I’m currently on the way to become a "Full-stack Software Developer".</li>
+  <li>🏃 I’m currently on the way to become a "Full-stack Software Developer".</li>
  </ul>
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wahaj-Ali" alt="Wahaj-Ali" /></a> </p>
