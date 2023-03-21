@@ -21,9 +21,9 @@
 
  <h3 align="center">My GitHub stats</h3>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Wahaj-Ali&safdsaf=adsfsaf" height="180" alt="Wahaj-Ali" />
-</div>
+</div> -->
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Ali&safdsaf=adsfsaf" height="180" alt="Wahaj-Ali" /></p>
