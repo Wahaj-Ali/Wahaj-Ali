@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I’m Wahaj</h1>
 <h3 align="center">A Computer Engineer and a software developer from Pakistan.</h3>
 
-<p>Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have great passion for learning languages, frameworks. I am open to new challenges and technologies. I enjoy solving problems via code and designing websites and bringing them to life.</p>
+<p>I'm a highly motivated software developer with a passion for building impactful applications. I graduated with a degree in Electrical Computer Engineering and am now enrolled in <a href="https://www.microverse.org/" target="_blank" rel="noopener">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.</p>
 <ul>
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
   <li>🏃 I’m currently on the way to become a "Full-stack Software Developer".</li>
