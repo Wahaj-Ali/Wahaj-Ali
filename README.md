@@ -5,7 +5,7 @@
 <ul>
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
   <li>🏃 I’m currently on the way to become a "Full-stack Software Developer".</li>
-  
+  <li>:100: Dream, Believe & Achieve</li>
   <li>:gear: My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL | RSpec |<//li>
  </ul>
  
