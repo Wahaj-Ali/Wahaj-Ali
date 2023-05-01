@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I’m Wahaj</h1>
-<h3 align="center">A Computer Engineer and a software developer from Pakistan.</h3>
+<h3 align="center">A Computer Engineer and a software developer</h3>
 
 <p>I'm a highly motivated software developer with a passion for building impactful applications. I graduated with a degree in Electrical Computer Engineering and am now enrolled in <a href="https://www.microverse.org/" target="_blank" rel="noopener">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.</p>
 <ul>
