@@ -4,7 +4,7 @@
 <p>I'm a highly motivated software developer with a passion for building impactful applications. I graduated with a degree in Electrical Computer Engineering and am now enrolled in <a href="https://www.microverse.org/" target="_blank" rel="noopener">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.</p>
 <ul>
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
-  <li>🏃 I’m currently on the way to become a "Full-stack Software Developer".</li>
+  <li>🏃 I’m currently on the way to become a "Full-stack Software Developer from Pakistan.".</li>
   <li>:100: Dream, Believe & Achieve</li>
   <li>:gear: My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL | RSpec | <//li>
  </ul>
