@@ -8,7 +8,7 @@
   <li>🏃 I’m a certified "Full-stack Developer".</li>
   <li>:100: Dream, Believe & Achieve</li>
   <li>:gear: My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL | RSpec | <//li>
-  <li>:green_circle: I am currently working on a project using MERN stack.<//li>
+  <li>:green_circle: I am currently working on an e-commerce web app using Next JS and Sanity CMS.<//li>
  </ul>
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wahaj-Ali" alt="Wahaj-Ali" /></a> </p>
