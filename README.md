@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineer and a software developer.</h3>
 <h4 align="center">MERN Developer</h4>
 
-<p>I'm a highly motivated software developer with a passion for building impactful applications. I graduated with a degree in Electrical Computer Engineering and am now enrolled in <a href="https://www.microverse.org/" target="_blank" rel="noopener">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.</p>
+<p>Software Engineer, Full Stack Web Developer with a Bachelor's in Electrical Computer Engineering. Proficient in JavaScript/TypeScript, ReactJS/Next JS, and Node JS with a proven track record of building responsive and efficient web applications. I have a documented history of consistently providing high-caliber solutions that effectively cater to the requirements of both clients and end-users. Whether tackling intricate projects or engaging in teamwork across different functions, I consistently maintain a professional approach, unwavering commitment, and meticulous attention to detail in all my endeavors.</p>
 <ul>
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
   <li>🏃 I’m a certified "Full-stack Developer".</li>
