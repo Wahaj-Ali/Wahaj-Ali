@@ -7,7 +7,7 @@
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
   <li>🏃 I’m a certified "Full-stack Developer".</li>
   <li>:100: Dream, Believe & Achieve</li>
-  <li>:gear: My stack: HTML/CSS | JavaScript/TypeScript | React/Redux | Node JS | Next JS | SQL | Mongo DB | RSpec | <//li>
+  <li>:gear: My stack: JavaScript/TypeScript | Tailwind CSS | React/Redux | Node JS | Next JS | SQL | Mongo DB | RSpec | <//li>
   <li>:green_circle: I am currently working as a Full-Stack(MERN) Developer at "SQA Agency".<//li>
  </ul>
  
