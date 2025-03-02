@@ -8,7 +8,7 @@
   <li>🏃 I’m a certified "Full-stack Developer".</li>
   <li>:100: Dream, Believe & Achieve</li>
   <li>:gear: My stack: JavaScript/TypeScript | Tailwind CSS | React/Redux | Node JS | Next JS | SQL | Mongo DB | RSpec | <//li>
-  <li>:green_circle: I am currently working as a Full-Stack(MERN) Developer at "SQA Agency".<//li>
+  <li>:green_circle: I am currently working as a Full-Stack Engineer at "CCRIPT Agency".<//li>
  </ul>
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wahaj-Ali" alt="Wahaj-Ali" /></a> </p>
