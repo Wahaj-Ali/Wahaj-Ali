@@ -7,7 +7,7 @@
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
   <li>🏃 I’m a certified "Full-stack Developer".</li>
   <li>:100: Dream, Believe & Achieve</li>
-  <li>:gear: My stack: JavaScript/TypeScript | Tailwind CSS | React/Redux | Node JS | Next JS | SQL | Mongo DB | RSpec | <//li>
+  <li>:gear: My stack: JavaScript/TypeScript | Tailwind CSS | React JS | Node JS | Next JS | SQL | RSpec | <//li>
   <li>:green_circle: I am currently working as a Full-Stack Engineer at "CCRIPT Agency".<//li>
  </ul>
  
@@ -16,7 +16,7 @@
  <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Ali96Wahaj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ali96Wahaj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wahaj-ali96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wahaj Ali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wahaj-ali-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wahaj Ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
