@@ -7,7 +7,7 @@
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
   <li>🏃 I’m a certified "Full-stack Developer".</li>
   <li>:100: Dream, Believe & Achieve</li>
-  <li>:gear: My stack: JavaScript/TypeScript | Tailwind CSS | React JS | Node JS | Next JS | SQL | RSpec | <//li>
+  <li>:gear: My stack: JavaScript/TypeScript | Tailwind CSS | React JS | Node JS | Next JS | SQL | RSpec | Docker | CI/CD | AWS <//li>
   <li>:green_circle: I am currently working as a Full-Stack Engineer at "CCRIPT Agency". <a href="https://github.com/wahaj-ccript" target="_blank" alt="Wahaj-Ali" />Github</a><//li>
  </ul>
  
