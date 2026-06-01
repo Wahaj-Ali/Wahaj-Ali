@@ -24,12 +24,8 @@
 
 
  <h3 align="center">My GitHub stats</h3>
-
-<!-- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Wahaj-Ali&safdsaf=adsfsaf" height="180" alt="Wahaj-Ali" />
-</div> -->
 <div align="center">
-  <p><img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj-ali&show_icons=true&layout=compact"/></p>
+  <p><img height="180" width="420" src="https://streak-stats.demolab.com/?user=Wahaj-Ali"/></p>
 </div>
 
 <div align="center">
