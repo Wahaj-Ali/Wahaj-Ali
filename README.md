@@ -25,7 +25,7 @@
 
  <h3 align="center">My GitHub stats</h3>
 <div align="center">
-  <p><img height="180" width="420" src="https://streak-stats.demolab.com/?user=Wahaj-Ali"/></p>
+  <p><img height="180" width="420" src="https://github-readme-stats-fast.vercel.app/api?username=Wahaj-Ali"/></p>
 </div>
 
 <div align="center">
