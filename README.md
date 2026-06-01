@@ -11,7 +11,7 @@
   <li>:green_circle: I am currently working as a Full-Stack Engineer at "CCRIPT Agency". <a href="https://github.com/wahaj-ccript" target="_blank" alt="Wahaj-Ali" />Github</a><//li>
  </ul>
  
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wahaj-Ali" alt="Wahaj-Ali" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Wahaj-Ali" alt="Wahaj-Ali" /></a> </p>
  
  <h3 align="center">Connect with me:</h3>
 <p align="center">
