@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack AI Engineer</h3>
 
 <p align="center">
-Building scalable AI-powered web applications with modern JavaScript technologies.
+Building scalable AI-powered web applications with modern JavaScript & Python technologies.
 </p>
 
 ## 👨‍💻 About Me
