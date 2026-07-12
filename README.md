@@ -1,42 +1,96 @@
-<h1 align="center">Hi there 👋, I’m Wahaj</h1>
-<!-- <h3 align="center">A Computer Engineer and a software developer.</h3> -->
-<h3 align="center">Full-stack Engineer</h3>
+<h1 align="center">Hi there 👋, I'm Wahaj Ali</h1>
+<h3 align="center">Full Stack AI Engineer</h3>
 
-<p>Software Engineer, Full Stack Web Developer with a Bachelor's in Electrical Computer Engineering. Proficient in JavaScript/TypeScript, ReactJS/Next JS, and Node JS with a proven track record of building responsive and efficient web applications. I have a documented history of consistently providing high-caliber solutions that effectively cater to the requirements of both clients and end-users. Whether tackling intricate projects or engaging in teamwork across different functions, I consistently maintain a professional approach, unwavering commitment, and meticulous attention to detail in all my endeavors.</p>
-<ul>
-  <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
-  <li>🏃 I’m a certified "Full-stack Developer".</li>
-  <li>:100: Dream, Believe & Achieve</li>
-  <li>:gear: My stack: JavaScript/TypeScript | Tailwind CSS | React JS | Node JS | Next JS | SQL | RSpec | Docker | CI/CD | AWS <//li>
-  <li>:green_circle: I am currently working as a Full-Stack Engineer at "CCRIPT Agency". <a href="https://github.com/wahaj-ccript" target="_blank" alt="Wahaj-Ali" />Github</a><//li>
- </ul>
- 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Wahaj-Ali" alt="Wahaj-Ali" /></a> </p>
- 
- <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/Ali96Wahaj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ali96Wahaj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wahaj-ali-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wahaj Ali" height="30" width="40" /></a>
+Building scalable AI-powered web applications with modern JavaScript technologies.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> </p>
+## 👨‍💻 About Me
 
+<p>Full Stack AI Engineer with a Bachelor's in Electrical Computer Engineering, specializing in building scalable, AI-powered web applications using JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, and Supabase. I have experience developing full-stack SaaS products, integrating LLM APIs and AI workflows, building responsive user interfaces, designing secure backend systems, and deploying production-ready applications. Passionate about clean code, performance, and solving real-world problems, I enjoy collaborating with teams to deliver reliable, user-focused software that creates meaningful business impact..</p>
+<ul>
+  <li>💼 Full Stack Engineer at <strong>CCRIPT Agency</strong> <a href="https://github.com/wahaj-ccript" target="_blank" alt="Wahaj-Ali" />Github</a></li>
+  <li>🤖 Building AI-powered SaaS products and automation tools</li>
+  <li>🌐 Specialized in React, Next.js, Node.js, FastAPI & AI integrations</li>
+  <li>☁️ Experience deploying applications with Docker, CI/CD and AWS</li>
+  <li>📫 Reach me at: <a href="mailto:wahaj.ali96@yahoo.com">wahaj.ali96@yahoo.com</a></li>
+ </ul>
+  
+## 🌐 Connect With Me
 
- <h3 align="center">My GitHub stats</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wahaj-ali-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/Ali96Wahaj">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="mailto:wahaj.ali96@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Wahaj-Ali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
 <div align="center">
   <p><img height="180" width="420" src="https://github-readme-stats-fast.vercel.app/api?username=Wahaj-Ali"/></p>
 </div>
-
-<!-- <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Ali&safdsaf=adsfsaf" height="180" alt="Wahaj-Ali" /></p>
-</div> -->
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahaj-Ali&" alt="Wahaj-Ali" /></p>
 </div>
 
-<!---
-Wahaj-Ali/Wahaj-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Wahaj-Ali" alt="Wahaj-Ali" /></a> </p>
